@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3a2b72fc61ab99f13b7d7cb7e5ae6e681706bf5f",
+    "author": "Cristian Roman <cristianroman@Cristians-MacBook-Pro.local>",
+    "time": "2020-10-04 22:46:32",
+    "files": 1,
+    "merge": false,
+    "message": "if when data_not_tree fixed\n"
+  },
+  "remote": "https://github.com/ropensci/treedata.table",
+  "pkg": "treedata.table"
+}
