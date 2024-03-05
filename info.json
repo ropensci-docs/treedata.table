@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "33d0086a42bb8c8ba801142385be31ba0aea3d31",
+    "author": "cromanpa94 <cromanpa94@gmail.com>",
+    "time": "2021-09-10 21:06:39",
+    "files": 3,
+    "merge": false,
+    "message": "Readme updated\n"
+  },
+  "repo": "https://github.com/ropensci/treedata.table",
+  "pkg": "treedata.table"
+}
