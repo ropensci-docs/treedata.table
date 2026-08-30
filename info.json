@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "bc4d7cfa0e6cf733986689cdb8163e421c21bcbb",
+    "author": "Cristian Román Palacios <cromanpa94@gmail.com>",
+    "time": "2025-10-06T16:34:08Z",
+    "files": 6,
+    "merge": false,
+    "message": "Dev cran (#6)\n\n* orcid updated\n\n* CRAN fixes\n\n* Workflows updated"
+  },
+  "repo": "https://github.com/ropensci/treedata.table",
+  "pkg": "treedata.table",
+  "time": "2026-08-30T07:58:48Z"
+}

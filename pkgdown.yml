@@ -1,0 +1,13 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  AA_treedata.table_intro_english: AA_treedata.table_intro_english.html
+  AB_treedata.table_intro_spanish: AB_treedata.table_intro_spanish.html
+  B_multiphylo_treedata.table: B_multiphylo_treedata.table.html
+  C_PartialMatching: C_PartialMatching.html
+  D_AdditionalFunctions_treedata.table: D_AdditionalFunctions_treedata.table.html
+last_built: 2026-08-30T07:58Z
+urls:
+  reference: https://docs.ropensci.org/treedata.table/reference
+  article: https://docs.ropensci.org/treedata.table/articles
